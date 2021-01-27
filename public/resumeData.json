@@ -16,7 +16,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://github.com/tutchings",
-    "resumedownload":"resume/tutchingsResume.pdf",
+    "resumedownload":"https://drive.google.com/file/d/1z-EfydB5ZVRvnLHXoPAg1dbRDvHO-gSV/view?usp=sharing",
     "social":[
       {
         "name":"github",
@@ -165,7 +165,7 @@
         "title":"Weather Dashboard",
         "shorttitle": "Weather Dashboard",
         "category":"Academic Project",
-        "image":"weatherDashboard.PNG",
+        "image":"weatherDashboard.png",
         "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
         "url":"https://tutchings.github.io/6_weatherDashboard/",
         "repo":"https://github.com/tutchings/6_weatherDashboard"
