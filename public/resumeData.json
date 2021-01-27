@@ -109,6 +109,7 @@
     "projects": [
       {
         "title":"Disney Platformer",
+        "shorttitle": "Disney Platformer",
         "category":"Personal Project",
         "image":"disneyPlatformer.PNG",
         "info":"HTML, CSS, JS, Bootstrap, Adobe Photoshop",
@@ -117,6 +118,7 @@
       },
       {
         "title":"Wake Forest University ASGM Project",
+        "shorttitle": "WFU ASGM Project",
         "category":"Academic (group) Project",
         "image":"wfu-asgm-project.PNG",
         "info":"Amazon Web Services (AWS), Serverless, Express, Vuejs, Nodejs, Axios, MongoDB, Mongoose, HTML, CSS, JS, jQuery",
@@ -125,6 +127,7 @@
       },
       {
         "title":"Exploring National Parks During Covid: Live Search",
+        "shorttitle": "NPS Covid: Live Search",
         "category":"Academic (group) Project",
         "image":"nps.png",
         "info":"HTML, CSS, JS, jQuery, Materialize, GoogleMaps and Geocoding APIs, NPS API, Covid Tracking Project API, Bing News API, MapQuest API",
@@ -133,6 +136,7 @@
       },
       {
         "title":"React User Directory",
+        "shorttitle": "React User Directory",
         "category":"Academic Project",
         "image":"userDirectoryImg1.PNG",
         "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
@@ -141,6 +145,7 @@
       },
       {
         "title":"Budget Tracker PWA",
+        "shorttitle": "Budget Tracker",
         "category":"Academic Project",
         "image":"budgetTracker1.PNG",
         "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
@@ -149,6 +154,7 @@
       },
       {
         "title":"Burger Tracker",
+        "shorttitle": "Burger Tracker",
         "category":"Academic Project",
         "image":"burgerTracker.PNG",
         "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
@@ -157,6 +163,7 @@
       },
       {
         "title":"Weather Dashboard",
+        "shorttitle": "Weather Dashboard",
         "category":"Academic Project",
         "image":"weatherDashboard.PNG",
         "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
@@ -165,6 +172,7 @@
       },
       {
         "title":"BlackJack Game",
+        "shorttitle": "BlackJack",
         "category":"Personal Project",
         "image":"blackjack.PNG",
         "info":"HTML, CSS, JS",

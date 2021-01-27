@@ -14,6 +14,19 @@ class Contact extends Component {
       var message = this.props.data.contactmessage;
     }
 
+    if(this.props.repos){
+      var projectRepos = this.props.repos.projects.map(function(projects) {
+         return (
+            <li key={projects.title}>
+               <span>
+                  <a href={projects.repo} target="_blank">{projects.shorttitle}</a>
+               </span>
+            </li>
+         )
+      })
+    }
+
+
     return (
       <section id="contact">
 
@@ -90,46 +103,7 @@ class Contact extends Component {
                <div className="widget widget_tweets">
                   <h4 className="widget-title">Project Repos (source code)</h4>
                   <ul id="twitter">
-                     <li>
-                        <span>
-                        <a href="https://github.com/tutchings/disneyPlatformer">Disney Platformer</a>
-                        </span>
-                     </li>
-                     <li>
-                        <span>
-                        <a href="https://github.com/tutchings/disneyPlatformer">Disney Platformer</a>
-                        </span>
-                     </li>
-                     <li>
-                        <span>
-                        <a href="https://github.com/tutchings/disneyPlatformer">Disney Platformer</a>
-                        </span>
-                     </li>
-                     <li>
-                        <span>
-                        <a href="https://github.com/tutchings/disneyPlatformer">Disney Platformer</a>
-                        </span>
-                     </li>
-                     <li>
-                        <span>
-                        <a href="https://github.com/tutchings/disneyPlatformer">Disney Platformer</a>
-                        </span>
-                     </li>
-                     <li>
-                        <span>
-                        <a href="https://github.com/tutchings/disneyPlatformer">Disney Platformer</a>
-                        </span>
-                     </li>
-                     <li>
-                        <span>
-                        <a href="https://github.com/tutchings/disneyPlatformer">Disney Platformer</a>
-                        </span>
-                     </li>
-                     <li>
-                        <span>
-                        <a href="https://github.com/tutchings/disneyPlatformer">Disney Platformer</a>
-                        </span>
-                     </li>
+                     {projectRepos}
                   </ul>
 		         </div>
             </aside>
