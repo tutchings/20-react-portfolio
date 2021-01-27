@@ -1,47 +1,32 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Thomas Tutchings",
+    "description":"Software Developer / Designer / Lifetime Student",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"My name is Thomas Tutchings and I am a recent IT Bachelor's degree graduate and current UNC Coding Bootcamp Student. Based in Raleigh, NC, I am a hard-working, detail-oriented Software Developer passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+    "contactmessage":"Feel free to contact me via this form or find me on LinkedIn!",
+    "email": "tutchings.dev@gmail.com",
+    "phone": "540-755-6656",
+    "github":"https://github.com/tutchings",
+    "project":"https://www.linkedin.com/in/thomas-tutchings-2340871b7/",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
+      "city":"Raleigh",
+      "state":"NC",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://github.com/tutchings",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name":"github",
+        "url":"https://github.com/tutchings",
+        "className":"fa fa-github"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/thomas-tutchings-2340871b7/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
       }
     ]
   },
@@ -49,30 +34,32 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of North Carolina - Chapel Hill",
+        "gpa": "A+ Academic Average",
+        "degree":"Coding Bootcamp Certificate",
+        "graduated":"February 2021",
+        "description":"Coursework Included: Front-End Web Development (HTML, CSS, JavaScript), Back-End Web Development (Perl, Python, PHP), C-Programming, Database Management Systems (SQL, ERDplus, Teradata), Adobe Creative Suite, Microsoft Office Applications, Business Minor (Management, Finance, Accounting, Marketing, Economics)"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Massachusetts Lowell",
+        "gpa": "3.977 GPA",
+        "degree":"Bachelor's of Science in Information Technology (minor in business)",
+        "graduated":"August 2019",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Dean Dorton",
+        "title":"Software Services Specialist (Software Developer)",
+        "years":"November 2020 - Present",
+        "description":"Write scrips to build custom accounting dashboards for clients (javasript) and build software integrations between accounting application platforms (python)"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"365 Sports",
+        "title":"Accounting / Sports Marketing Data Analyst",
+        "years":"December 2019 - May 2020 (Laid-off as a result of Covid-19)",
+        "description":"Invoicing clients, building and sending receipts, schdeuling/mailing payment plans and reminders, marketing tasks (mass mailings, mass text messaging, design/editing), and researching high school sports statistics, data, and school information."
       }
     ],
     "skills":[
@@ -109,34 +96,68 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Disney Platformer",
+        "category":"Personal Project",
+        "image":"disneyPlatformer.PNG",
+        "info":"HTML, CSS, JS, Bootstrap, Adobe Photoshop",
+        "url":"https://tutchings.github.io/disneyPlatformer/",
+        "repo":"https://github.com/tutchings/disneyPlatformer"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Wake Forest University ASGM Project",
+        "category":"Academic (group) Project",
+        "image":"wfu-asgm-project.PNG",
+        "info":"Amazon Web Services (AWS), Serverless, Express, Vuejs, Nodejs, Axios, MongoDB, Mongoose, HTML, CSS, JS, jQuery",
+        "url":"https://asgmwfu.com/index.html",
+        "repo":"https://github.com/tutchings/wfu-asgm-awsServerlessLambda"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Exploring National Parks During Covid: Live Search",
+        "category":"Academic (group) Project",
+        "image":"nps.png",
+        "info":"HTML, CSS, JS, jQuery, Materialize, GoogleMaps and Geocoding APIs, NPS API, Covid Tracking Project API, Bing News API, MapQuest API",
+        "url":"https://tutchings.github.io/exploringParksDuringCovidLiveSearch/",
+        "repo":"https://github.com/tutchings/exploringParksDuringCovidLiveSearch"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"React User Directory",
+        "category":"Academic Project",
+        "image":"userDirectoryImg1.PNG",
+        "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
+        "url":"https://tutchings.github.io/19-user-directory/",
+        "repo":"https://github.com/tutchings/19-user-directory"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Budget Tracker PWA",
+        "category":"Academic Project",
+        "image":"budgetTracker1.PNG",
+        "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
+        "url":"https://budget-tracker-18-pwa.herokuapp.com",
+        "repo":"https://github.com/tutchings/18_BudgetTrackerPWA"
+      },
+      {
+        "title":"Burger Tracker",
+        "category":"Academic Project",
+        "image":"burgerTracker.PNG",
+        "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
+        "url":"https://mysql-mvc-burger-shop.herokuapp.com/",
+        "repo":"https://github.com/tutchings/13_burgerTracker"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"Academic Project",
+        "image":"weatherDashboard.PNG",
+        "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
+        "url":"https://tutchings.github.io/6_weatherDashboard/",
+        "repo":"https://github.com/tutchings/6_weatherDashboard"
+      },
+      {
+        "title":"BlackJack Game",
+        "category":"Personal Project",
+        "image":"blackjack.PNG",
+        "info":"HTML, CSS, JS",
+        "url":"https://tutchings.github.io/blackjack/",
+        "repo":"https://github.com/tutchings/blackjack"
       }
     ]
   }
