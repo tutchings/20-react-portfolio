@@ -31,7 +31,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
     "education":[
       {
         "school":"University of North Carolina - Chapel Hill",
@@ -64,32 +64,44 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"HTML / CSS / Bootstrap",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"ReactJS",
+        "level":"35%"
+      },
+      {
+        "name":"MongoDB / Mongoose",
+        "level":"45%"
+      },
+      {
+        "name":"Terminal / Git",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"NodeJS / ExpressJS",
+        "level":"80%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"MySQL / Sequelize",
+        "level":"55%"
+      },
+      {
+        "name":"JavaScript / jQuery",
+        "level":"90%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"75%"
+      },
+      {
+        "name":"C-Programming",
+        "level":"30%"
+      },
+      {
+        "name":"Amazon Web Services / Serverless",
+        "level":"25%"
       }
     ]
   },
