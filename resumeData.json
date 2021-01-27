@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name":"Thomas Tutchings",
+    "description":"Software Developer / Designer / Lifetime Student",
+    "image":"profilepic.jpg",
+    "bio":"My name is Thomas Tutchings and I am a recent IT Bachelor's degree graduate and current UNC Coding Bootcamp Student. Based in Raleigh, NC, I am a hard-working, detail-oriented Software Developer passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+    "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+    "email": "tutchings.dev@gmail.com",
+    "phone": "540-755-6656",
+    "github":"https://github.com/tutchings",
+    "project":"https://www.linkedin.com/in/thomas-tutchings-2340871b7/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Raleigh",
+      "state":"NC",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://github.com/tutchings",
+    "resumedownload":"resume/tutchingsResume.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/tutchings",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/thomas-tutchings-2340871b7/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
+    "education":[
+      {
+        "school":"University of North Carolina - Chapel Hill",
+        "gpa": "A+ Academic Average",
+        "degree":"Coding Bootcamp Certificate",
+        "graduated":"February 2021",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+      },
+      {
+        "school":"University of Massachusetts Lowell",
+        "gpa": "3.977 GPA",
+        "degree":"Bachelor's of Science in Information Technology (minor in business)",
+        "graduated":"August 2019",
+        "description":"Coursework Included: Front-End Web Development (HTML, CSS, JavaScript), Back-End Web Development (Perl, Python, PHP), C-Programming, Database Management Systems (SQL, ERDplus, Teradata), Adobe Creative Suite, Microsoft Office Applications, Business Minor (Management, Finance, Accounting, Marketing, Economics)"
+      }
+    ],
+    "work":[
+      {
+        "company":"Dean Dorton",
+        "title":"Software Services Specialist (Software Developer)",
+        "years":"November 2020 - Present",
+        "description":"Write scrips to build custom accounting dashboards for clients (javasript) and build software integrations between accounting application platforms (python)"
+      },
+      {
+        "company":"365 Sports",
+        "title":"Accounting / Sports Marketing Data Analyst",
+        "years":"December 2019 - May 2020 (Laid-off as a result of Covid-19)",
+        "description":"Invoicing clients, building and sending receipts, schdeuling/mailing payment plans and reminders, marketing tasks (mass mailings, mass text messaging, design/editing), and researching high school sports statistics, data, and school information."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML / CSS / Bootstrap",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"35%"
+      },
+      {
+        "name":"MongoDB / Mongoose",
+        "level":"45%"
+      },
+      {
+        "name":"Terminal / Git",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS / ExpressJS",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL / Sequelize",
+        "level":"55%"
+      },
+      {
+        "name":"JavaScript / jQuery",
+        "level":"90%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"75%"
+      },
+      {
+        "name":"C-Programming",
+        "level":"30%"
+      },
+      {
+        "name":"Amazon Web Services / Serverless",
+        "level":"25%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Disney Platformer",
+        "shorttitle": "Disney Platformer",
+        "category":"Personal Project",
+        "image":"disneyPlatformer.PNG",
+        "info":"HTML, CSS, JS, Bootstrap, Adobe Photoshop",
+        "url":"https://tutchings.github.io/disneyPlatformer/",
+        "repo":"https://github.com/tutchings/disneyPlatformer"
+      },
+      {
+        "title":"Wake Forest University ASGM Project",
+        "shorttitle": "WFU ASGM Project",
+        "category":"Academic (group) Project",
+        "image":"wfu-asgm-project.PNG",
+        "info":"Amazon Web Services (AWS), Serverless, Express, Vuejs, Nodejs, Axios, MongoDB, Mongoose, HTML, CSS, JS, jQuery",
+        "url":"https://asgmwfu.com/index.html",
+        "repo":"https://github.com/tutchings/wfu-asgm-awsServerlessLambda"
+      },
+      {
+        "title":"Exploring National Parks During Covid: Live Search",
+        "shorttitle": "NPS Covid: Live Search",
+        "category":"Academic (group) Project",
+        "image":"nps.png",
+        "info":"HTML, CSS, JS, jQuery, Materialize, GoogleMaps and Geocoding APIs, NPS API, Covid Tracking Project API, Bing News API, MapQuest API",
+        "url":"https://tutchings.github.io/exploringParksDuringCovidLiveSearch/",
+        "repo":"https://github.com/tutchings/exploringParksDuringCovidLiveSearch"
+      },
+      {
+        "title":"React User Directory",
+        "shorttitle": "React User Directory",
+        "category":"Academic Project",
+        "image":"userDirectoryImg1.PNG",
+        "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
+        "url":"https://tutchings.github.io/19-user-directory/",
+        "repo":"https://github.com/tutchings/19-user-directory"
+      },
+      {
+        "title":"Budget Tracker PWA",
+        "shorttitle": "Budget Tracker",
+        "category":"Academic Project",
+        "image":"budgetTracker1.PNG",
+        "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
+        "url":"https://budget-tracker-18-pwa.herokuapp.com",
+        "repo":"https://github.com/tutchings/18_BudgetTrackerPWA"
+      },
+      {
+        "title":"Burger Tracker",
+        "shorttitle": "Burger Tracker",
+        "category":"Academic Project",
+        "image":"burgerTracker.PNG",
+        "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
+        "url":"https://mysql-mvc-burger-shop.herokuapp.com/",
+        "repo":"https://github.com/tutchings/13_burgerTracker"
+      },
+      {
+        "title":"Weather Dashboard",
+        "shorttitle": "Weather Dashboard",
+        "category":"Academic Project",
+        "image":"weatherDashboard.PNG",
+        "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
+        "url":"https://tutchings.github.io/6_weatherDashboard/",
+        "repo":"https://github.com/tutchings/6_weatherDashboard"
+      },
+      {
+        "title":"BlackJack Game",
+        "shorttitle": "BlackJack",
+        "category":"Personal Project",
+        "image":"blackjack.PNG",
+        "info":"HTML, CSS, JS",
+        "url":"https://tutchings.github.io/blackjack/",
+        "repo":"https://github.com/tutchings/blackjack"
+      }
+    ]
+  }
+}
