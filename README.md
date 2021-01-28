@@ -1,8 +1,21 @@
 # Unit 20 React Homework: React Portfolio
 
-Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
+## Link to Live Project and Project Images
+- - -
+IMAGE 1:
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+![Screenshot of Final Project 1](https://github.com/tutchings/20-react-portfolio/blob/master/public/images/readme-imgs/portfolio4.PNG)
+- - -
+IMAGE 2:
+
+![Screenshot of Final Project 2](https://github.com/tutchings/20-react-portfolio/blob/master/public/images/readme-imgs/portfolio3.PNG)
+- - -
+
+[Deployed Website Link](https://tutchings.github.io/20-react-portfolio/)
+
+## Project Overview
+
+Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
 
 ## Requirements
 
@@ -20,16 +33,7 @@ If you are opting out of career services, this is *still a required assignment*.
 
 * Update GitHub profile with pinned repositories featuring those same projects
 
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
-
-* **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
-
-## Grading
-
-| Requirement    | Weight |
-| -------------- | ------ |
-| Portfolio      | 90%    |
-| GitHub Profile | 10%    |
+* Deploy this site to GitHub Pages
 
 
 ## Instructions
@@ -90,8 +94,6 @@ At a minimum, your portfolio should include the following:
 * Navigation with React Router, dynamic rendering, or another third part router
 
 * A `Footer` component that appears on multiple pages
-
-* **Important**: If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read the [GitHub note on client-side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) and the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
 
 
 ### Updated LinkedIn Profile 
